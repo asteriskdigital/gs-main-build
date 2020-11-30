@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/authors/arthur-conan-doyle/</loc>
+    <lastmod>2019-12-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/authors/</loc>
+    <lastmod>2019-12-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-12-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-adventure-of-the-copper-beeches/</loc>
+    <lastmod>2019-12-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/</loc>
+    <lastmod>2019-12-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-adventure-of-the-beryl-coronet/</loc>
+    <lastmod>2019-11-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-adventure-of-the-noble-bachelor/</loc>
+    <lastmod>2019-10-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-adventure-of-the-engineers-thumb/</loc>
+    <lastmod>2019-09-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-adventure-of-the-speckled-band/</loc>
+    <lastmod>2019-08-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-adventure-of-the-blue-carbuncle/</loc>
+    <lastmod>2019-07-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-man-with-the-twisted-lip/</loc>
+    <lastmod>2019-06-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-five-orange-pips/</loc>
+    <lastmod>2019-05-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-boscombe-valley-mystery/</loc>
+    <lastmod>2019-04-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/a-case-of-identity/</loc>
+    <lastmod>2019-03-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/the-red-headed-league/</loc>
+    <lastmod>2019-02-10T11:30:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sherlock/a-scandal-in-bohemia/</loc>
+    <lastmod>2019-01-10T11:30:00+10:00</lastmod>
+  </url>
+  
+</urlset>

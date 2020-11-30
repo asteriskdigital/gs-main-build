@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSG Showdown on Getting Started: SSG Demos</title>
+    <link>https://keen-fermat-20dd14.netlify.app/</link>
+    <description>Recent content in SSG Showdown on Getting Started: SSG Demos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://keen-fermat-20dd14.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
